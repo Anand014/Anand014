@@ -1,4 +1,4 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
+![MasterHead](https://i.pinimg.com/originals/16/9c/11/169c11293f5c08a325ee1bbc8a0d4cb8.gif)
 
 <h1 align="left">Hi 👋, I'm Kumar Anand</h1>
 <h3 align="left">A passionate developer from India</h3>
