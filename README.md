@@ -34,7 +34,7 @@
 <br>
 
 <h3 align="left">Resume:</h3>
-<a align="left" href="https://github.com/ashutoshanand139/Documents/blob/main/Ashutosh%20Anand%20Resume.pdf" target="_blank">
+<a align="left" href="https://github.com/Anand014/Documents/blob/main/Resume%20Kumar%20Anand.pdf" target="_blank">
   <img align="left" width="32" alt="Resume" src="https://img.icons8.com/fluency/48/000000/resume.png" />
 </a>
 
@@ -45,13 +45,13 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   <br>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashutoshanand139&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anand014&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox" />
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
   <br>
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshanand139&langs_count=10&theme=gruvbox&layout=compact" />
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand014&langs_count=10&theme=gruvbox&layout=compact" />
   <br>
   <i>NOTE: It's just a GitHub metric to determine which languages have the most code on GitHub.</i>
 </details>
@@ -59,13 +59,13 @@
 <details>
   <summary>:zap: Github Streak Stats</summary>
   <br>
-  <img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshanand139&theme=gruvbox" />
+  <img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anand014&theme=gruvbox" />
 </details>
 
 <details>
   <summary>:zap: Wakatime Stats</summary>
   <br>
-  <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime/?username=ashutoshanand139&langs_count=10&theme=gruvbox&layout=compact" />
+  <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime/?username=anand014&langs_count=10&theme=gruvbox&layout=compact" />
 </details>
 
 <br>
