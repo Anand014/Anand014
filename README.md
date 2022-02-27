@@ -45,13 +45,13 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   <br>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anand014&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anand014&include_all_commits=true&count_private=true&show_icons=true&theme=radical" />
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
   <br>
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand014&langs_count=10&theme=gruvbox&layout=compact" />
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand014&langs_count=10&theme=radical&layout=compact" />
   <br>
   <i>NOTE: It's just a GitHub metric to determine which languages have the most code on GitHub.</i>
 </details>
@@ -59,13 +59,13 @@
 <details>
   <summary>:zap: Github Streak Stats</summary>
   <br>
-  <img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anand014&theme=gruvbox" />
+  <img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anand014&theme=radical" />
 </details>
 
 <details>
   <summary>:zap: Wakatime Stats</summary>
   <br>
-  <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime/?username=anand014&langs_count=10&theme=gruvbox&layout=compact" />
+  <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime/?username=anand014&langs_count=10&theme=radical&layout=compact" />
 </details>
 
 <br>
