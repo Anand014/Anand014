@@ -1,4 +1,4 @@
-![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)
+![MasterHead](https://indoanalytica.com/static/images/banner-2.gif)
 
 <h1 align="left">Hi 👋, I'm Kumar Anand</h1>
 <h3 align="left">A passionate developer from India</h3>
