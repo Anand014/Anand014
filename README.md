@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/16/9c/11/169c11293f5c08a325ee1bbc8a0d4cb8.gif)
+![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)
 
 <h1 align="left">Hi 👋, I'm Kumar Anand</h1>
 <h3 align="left">A passionate developer from India</h3>
@@ -6,7 +6,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand014&label=Profile%20views&color=0e75b6&style=flat" alt="anand014" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anand014&theme=algolia" alt="anand014" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anand014&theme=aura" alt="anand014" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
@@ -45,13 +45,13 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   <br>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anand014&include_all_commits=true&count_private=true&show_icons=true&theme=algolia" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anand014&include_all_commits=true&count_private=true&show_icons=true&theme=aura" />
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
   <br>
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand014&langs_count=10&theme=algolia&layout=compact" />
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand014&langs_count=10&theme=aura&layout=compact" />
   <br>
   <i>NOTE: It's just a GitHub metric to determine which languages have the most code on GitHub.</i>
 </details>
@@ -59,13 +59,13 @@
 <details>
   <summary>:zap: Github Streak Stats</summary>
   <br>
-  <img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anand014&theme=algolia" />
+  <img alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anand014&theme=aura" />
 </details>
 
 <details>
   <summary>:zap: Wakatime Stats</summary>
   <br>
-  <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime/?username=anand014&langs_count=10&theme=algolia&layout=compact" />
+  <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime/?username=anand014&langs_count=10&theme=aura&layout=compact" />
 </details>
 
 <br>
